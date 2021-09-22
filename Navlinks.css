@@ -1,0 +1,38 @@
+.Navlink{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    color: white;
+    
+    background-color: #1c2f49;
+    
+}
+
+
+
+.second-part {
+    display: flex;
+    cursor: pointer;
+    
+}
+
+.first-part{
+    margin-left: 20px;
+    
+}
+.second-part p{
+    margin: 20px;
+    
+}
+
+.second-part :hover{
+    border: 1px solid #fff;
+    border-radius: 4px;
+   
+}
+
+.third-part{
+    margin-right: 20px;
+    font-weight: 600;
+}
